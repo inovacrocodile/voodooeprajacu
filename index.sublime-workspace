@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"transi",
+				"transition-duration\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"is_in",
+				"is_int"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/thiag/OneDrive - Sociedade Educacional do Espírito Santo - UVV/UVV Tarefas/PROG2/modularizacao2/main.c",
+		"/C/Users/thiag/OneDrive - Sociedade Educacional do Espírito Santo - UVV/UVV Tarefas/PROG2/usarRand/main.c",
+		"/C/Users/thiag/OneDrive - Sociedade Educacional do Espírito Santo - UVV/UVV Tarefas/PROG2/modularizacao3/main.c",
+		"/C/Users/thiag/OneDrive - Sociedade Educacional do Espírito Santo - UVV/UVV Tarefas/PROG2/modularizacao3/modularizacao3.cbp",
+		"/C/Users/thiag/OneDrive - Sociedade Educacional do Espírito Santo - UVV/UVV Tarefas/PROG2/EXE01/main.c",
+		"/C/Users/thiag/Desktop/siteInova/css/style.css",
+		"/C/Users/thiag/Desktop/siteInova/index.html",
+		"/C/Users/thiag/Desktop/css3/styleTransition.css",
+		"/C/Users/thiag/Desktop/css3/transition.html",
+		"/C/Users/thiag/Desktop/css3/styleFloat.css",
+		"/C/Users/thiag/Desktop/css3/float.html",
+		"/C/Users/thiag/Desktop/css3/fonts.html",
+		"/C/Users/thiag/Desktop/css3/styleFonts.css",
+		"/C/Users/thiag/Desktop/css3/borderRadius.html",
+		"/C/Users/thiag/Desktop/css3/styleRadius.css",
+		"/C/Users/thiag/Desktop/css3/boxsize.html",
+		"/C/Users/thiag/Desktop/css3/styleBoxsizze.css",
+		"/C/Users/thiag/Desktop/css3/text.html",
+		"/C/Users/thiag/Desktop/css3/styleText.css",
+		"/C/Users/thiag/Desktop/css3/styleMargin.css",
+		"/C/Users/thiag/Desktop/css3/margin.html",
+		"/C/Users/thiag/Desktop/css3/dimensao.html",
+		"/C/Users/thiag/Desktop/css3/styleDimensao.css",
+		"/C/Users/thiag/Desktop/css3/styleClass.css",
+		"/C/Users/thiag/Desktop/css3/class.html",
+		"/C/Users/thiag/Desktop/css3/style.css",
+		"/C/Users/thiag/Desktop/css3/seletores.html",
+		"/C/Users/thiag/Desktop/css3/aula02.html",
+		"/C/Users/thiag/Desktop/html5/aula26.html",
+		"/C/Users/thiag/Desktop/html5/aula15.html",
+		"/C/Users/thiag/Desktop/html5/aula18.html",
+		"/C/Users/thiag/Desktop/html5/aula12.html",
+		"/C/Users/thiag/Desktop/html5/aula11.html",
+		"/C/Users/thiag/Desktop/html5/aula10.html",
+		"/C/Users/thiag/Desktop/html5/aula09.html",
+		"/C/Users/thiag/Desktop/html5/aula08.html",
+		"/C/Users/thiag/Desktop/html5/aula07.html",
+		"/C/Users/thiag/Desktop/html5/aula06.html",
+		"/C/Users/thiag/Desktop/html5/imagens/aula06.html",
+		"/C/Users/thiag/Desktop/html5/aula05.html",
+		"/C/Users/thiag/Desktop/html5/aula01.html",
+		"/C/Users/thiag/Desktop/html5/aula02.html",
+		"/C/Users/thiag/Desktop/html5/aula04.html",
+		"/C/wamp64/www/inovaproject/cadastro.php",
+		"/C/wamp64/www/cursophp.com/CFB01.php",
+		"/C/wamp64/www/cursophp.com/08-arrays.php",
+		"/C/wamp64/www/cursophp.com/07-constantes.php",
+		"/C/wamp64/www/cursophp.com/06-escopo-de-variaveis.php",
+		"/C/wamp64/www/cursophp.com/05-aspas-concatenacao.php",
+		"/C/wamp64/www/cursophp.com/04-tipos-de-dados.php",
+		"/C/wamp64/www/cursophp.com/03-variaveis-variaveis.php",
+		"/C/wamp64/www/cursophp.com/02-variaveis.php",
+		"/C/wamp64/www/cursophp.com/01-fundamentos_basicos.php",
+		"/C/wamp64/www/cursophp.com/index.html",
+		"/C/wamp64/www/cursophp.com/index.php",
+		"/C/wamp64/www/teste.php",
+		"/C/Windows/System32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
